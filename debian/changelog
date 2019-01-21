@@ -1,3 +1,9 @@
+raspi-copies-and-fills (0.8) buster; urgency=medium
+
+  * Rebuild for buster
+
+ -- Serge Schneider <serge@raspberrypi.org>  Mon, 21 Jan 2019 13:33:07 +0000
+
 raspi-copies-and-fills (0.7) stretch; urgency=medium
 
   * Update to a3277ce

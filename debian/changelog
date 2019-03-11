@@ -1,6 +1,8 @@
-raspi-copies-and-fills (0.8) buster; urgency=medium
+raspi-copies-and-fills (0.8) stretch; urgency=medium
 
-  * Rebuild for buster
+  * Update to ce0fcb7273e39a3c51e3b44dd6b82c04d1fba443
+    - Add a NEON implementation of strlen, tuned for Cortex-A53
+    - Add a NEON implementation of memcmp
 
  -- Serge Schneider <serge@raspberrypi.org>  Mon, 21 Jan 2019 13:33:07 +0000
 

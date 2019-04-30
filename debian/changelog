@@ -1,3 +1,10 @@
+raspi-copies-and-fills (0.13) buster; urgency=medium
+
+  * Update to f6b17c6c9c00a705e6b36e7a1b8a5cddf5b0cc23
+    - ARMv7: Ensure memcmp return value is always -1, 0 or +1
+
+ -- Serge Schneider <serge@raspberrypi.org>  Tue, 30 Apr 2019 10:22:05 +0100
+
 raspi-copies-and-fills (0.12) buster; urgency=medium
 
   * Update to 010044568a9691bb375e86a96f7e26495f5c5d6e

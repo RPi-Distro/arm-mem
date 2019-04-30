@@ -1,3 +1,12 @@
+raspi-copies-and-fills (0.12) buster; urgency=medium
+
+  * Update to 010044568a9691bb375e86a96f7e26495f5c5d6e
+    - Limit the return values of ARMv7 memcmp()
+    - ARMv7 strlen: fix stupid bug
+  * Symlink v7 to v8 and aarch64 for qemu and aarch64 hosts
+
+ -- Serge Schneider <serge@raspberrypi.org>  Wed, 17 Apr 2019 11:04:54 +0100
+
 raspi-copies-and-fills (0.8) stretch; urgency=medium
 
   * Update to ce0fcb7273e39a3c51e3b44dd6b82c04d1fba443
